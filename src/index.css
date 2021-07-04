@@ -11,3 +11,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* мои стили */
+
+.control {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.table-wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+
+}
+
+.table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.table-td {
+  border: 2px blue solid;
+}
